@@ -62,6 +62,12 @@ div.jumbotron {
   padding: 0 40px 0 40px;
   line-height: 40px;
 }
+div.questions {
+
+
+  padding: 0 20px 0 20px;
+
+}
 
 footer{
   border-top: 1px solid #ccc;
