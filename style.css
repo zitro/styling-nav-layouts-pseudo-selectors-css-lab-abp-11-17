@@ -11,7 +11,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -30,7 +30,10 @@ nav a {
   color: #007bff;
   font-size: 18px;
 }
-
+nav a:hover{
+  text-decoration: underline;;
+  color: #0056b3;
+}
 #header a{
   text-decoration: none;
   color: #868e96;
